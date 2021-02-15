@@ -6,7 +6,7 @@ nav_order: 1
 
 ### iSci 3A12 – Climate Change
 
-### Climate Claims: Finding the facts in a “post-truth” world
+## Climate Claims: Finding the facts in a “post-truth” world
 
 By: Anna Morley
 
